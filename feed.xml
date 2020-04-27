@@ -11,9 +11,9 @@
     <itunes:email>rody.davis.jr@gmail.com</itunes:email>
     <itunes:category text="Technology" />
     <image>
-      <url>https://rodydavis.github.io/podcast_player/img/icon.jpg</url>
+      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
       <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast_player/</link>
+      <link>https://rodydavis.github.io/podcast-player/</link>
     </image>
     <itunes:owner>
       <itunes:name>Rody Davis</itunes:name>
@@ -22,18 +22,18 @@
     <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
     <copyright>Rody Davis Productions 2020</copyright>
     <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast_player/img/icon.jpg" />
+    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast_player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast_player/img/icon.jpg" />
+    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
+    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
     <item>
       <author>Rody Davis, Norbert Kozsir</author>
       <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
       <title>Flutter Desktop/Web and VR</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast_player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
@@ -57,7 +57,7 @@ https://rodydavis.com
 
 Our podcast player: 
 
-https://rodydavis.github.io/podcast_player/
+https://rodydavis.github.io/podcast-player/
         </description>
     </item>
   </channel>

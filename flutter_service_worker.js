@@ -15,9 +15,9 @@ const RESOURCES = {
 "assets/AssetManifest.json": "0d266ffbe90dae02458487c9d33b7373",
 "assets/LICENSE": "d2cfd9ed186c0c40540a965cc6c04ff3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "590991b4f5e1991f38f567c62eb2816a",
+"main.dart.js": "82672e6ece91f87dac5dbfc9104c1e61",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
-"feed.xml": "a37284447ce58264627b74db15f36a85"
+"feed.xml": "408686e7c418edeec1af89656038b1c1"
 };
 
 self.addEventListener('activate', function (event) {
